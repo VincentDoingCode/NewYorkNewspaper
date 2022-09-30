@@ -1,0 +1,32 @@
+.page {
+  font-size: 175%;
+  
+}
+
+#article_title {
+  font-family: Anton;
+  letter-spacing:7px ;
+  font-size: 160%;
+
+}
+
+#intro {
+  font-family: Oswald;
+  line-height: 60px;
+}
+
+.question{
+  font-weight: 1000;
+  font-family: Raleway;
+
+}
+
+.answer{
+  font-family: Raleway;
+  font-weight: 400;
+}
+
+#block_quote {
+  font-family: Oswald;
+  font-size: 150%;
+}
